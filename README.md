@@ -72,4 +72,4 @@ Hackpad.exe file is located in `dist>app` folder.
 If you'd like to contribute to Notepad, feel free to submit a pull request on GitHub. We welcome all contributions!
 
 ## License
-Notepad is released under the [MIT](https://opensource.org/license/mit/) License.
+Hackpad is released under the [MIT](https://opensource.org/license/mit/) License.
