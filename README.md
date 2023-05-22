@@ -11,7 +11,7 @@ https://www.python.org/downloads/
 ### Installing
 
 ```bash
-git clone [URL](https://github.com/emretuncer256/Hackpad.git)
+git clone https://github.com/emretuncer256/Hackpad.git
 ```
 
 ## How to Use
