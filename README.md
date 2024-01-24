@@ -19,15 +19,6 @@ To run hackpad, there are 2 options:
 - Run with using console
 - Double-click Hackpad.exe file.
 
-### Activate Virtual Environment
-In the project folder
-```bash
-.\src\hackpad_env\Scripts\activate
-```
-or
-```bash
-.\src\hackpad_env\Scripts\activate.bat
-```
 Run code with using command below:
 ```bash
 python src\app.py
